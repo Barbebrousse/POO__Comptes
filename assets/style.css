@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+    font-size: 16px;
+}
+ h1 {
+    margin: 0;
+    font-size: 35px;
+    text-align: center;
+ }
+
+ table {
+    text-align: center;
+ }
